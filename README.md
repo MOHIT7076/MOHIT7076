@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MOHIT7076
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning coding
-- I have done Associates of Computer science from Canadian college
+- I have done Associates of Computer science from a Canadian college
 
 
 <!---
